@@ -1,8 +1,10 @@
-# MF-X-QDMA — multifractal quantile detrending moving-average cross-correlation analysis
+# MF-X-QDMA: multifractal quantile detrending moving-average cross-correlation analysis
 
 Code and data accompanying
 
-> S. Pratiher, *Multifractal quantile detrending moving-average cross-correlation analysis*, submitted to Physical Review E (2026).
+> Reference: **S. Pratiher**, *Multifractal Quantile Detrending Moving-Average Cross-Correlation Analysis*, submitted to a journal (2026).
+
+> Preprint: https://doi.org/10.21203/rs.3.rs-11631878/v1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-GITHUB-USERNAME>/MFQDMA-PaperII/blob/main/MFQDMA_PaperII.ipynb)
 
@@ -77,8 +79,10 @@ r[(0.5, 0.5)]['hq'], r[(0.5, 0.5)]['rho_n']     # h_xy(q) and rho(n)
 
 ## Companion paper
 
-The univariate method (MFQDMA, 1D and 2D) is in the repository `MFQDMA-PaperI`.
+The univariate method (MFQDMA, 1D and 2D) is in the repository `MFQDMA`.
 
 ## Licence
 
 MIT (see `LICENSE`). Please cite the paper if you use the code.
+
+Sawon Pratiher. Multifractal Quantile Detrending Moving-average Cross-correlation Analysis, 06 November 2026, (PREPRINT) available at Research Square [https://doi.org/10.21203/rs.3.rs-11631878/v1]
