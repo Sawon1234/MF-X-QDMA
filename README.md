@@ -1,4 +1,4 @@
-# MF-X-QDMA: multifractal quantile detrending moving-average cross-correlation analysis
+# MF-X-QDMA: Multifractal Quantile Detrending Moving-Average Cross-Correlation Analysis
 
 Code and data accompanying
 
@@ -10,7 +10,7 @@ Code and data accompanying
 
 **One notebook reproduces the whole paper.** Open `MFQDMA_PaperII.ipynb` in Google Colab with the badge above and choose *Runtime → Run all*. The notebook clones this repository, installs the requirements, and regenerates all **9 figures** and all **7 data tables** (Tables I–VII). It then checks the figures against the manuscript versions and offers the outputs as a zip file. This takes a few minutes.
 
-By default the figures and tables are built from the stored numerical results in `results/`. Switch on the `RECOMPUTE` flags in Part 1 of the notebook to regenerate those results from scratch. All seeds are fixed, and recomputing reproduces the stored results exactly. Rough run times on a free Colab runtime (about 1.5 h in total):
+By default, the figures and tables are built from the stored numerical results in `results/`. Switch on the `RECOMPUTE` flags in Part 1 of the notebook to regenerate those results from scratch. All seeds are fixed, and recomputing reproduces the stored results exactly. Rough run times on a free Colab runtime (about 1.5 h in total):
 
 | Flag | Results | Paper items | Time |
 |---|---|---|---|
